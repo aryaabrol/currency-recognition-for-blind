@@ -1,4 +1,4 @@
-# Currency Recognition for Blind 
+# Currency Recognition for Blind:
 
 ## Technology Used
 
